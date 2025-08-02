@@ -1,0 +1,167 @@
+[
+    {
+      "query": "What’s the temperature in Paris?",
+      "label": "tool"
+    },
+    {
+      "query": "Will it rain tomorrow?",
+      "label": "tool"
+    },
+    {
+      "query": "Turn on the fan.",
+      "label": "tool"
+    },
+    {
+      "query": "Switch off the lights in the kitchen.",
+      "label": "tool"
+    },
+    {
+      "query": "Send a message to Alice.",
+      "label": "tool"
+    },
+    {
+      "query": "Set the AC to 22°C.",
+      "label": "tool"
+    },
+    {
+      "query": "What’s your name?",
+      "label": "message"
+    },
+    {
+      "query": "Who are you?",
+      "label": "message"
+    },
+    {
+      "query": "What can you do?",
+      "label": "message"
+    },
+    {
+      "query": "Tell me a joke.",
+      "label": "message"
+    },
+    {
+      "query": "How are you today?",
+      "label": "message"
+    },
+    {
+      "query": "Explain quantum physics.",
+      "label": "message"
+    },
+ 
+  {
+    "query": "What’s the current temperature?",
+    "label": "tool"
+  },
+  {
+    "query": "Is it hot outside?",
+    "label": "tool"
+  },
+  {
+    "query": "Check the weather in Berlin.",
+    "label": "tool"
+  },
+  {
+    "query": "Can you turn the fan on?",
+    "label": "tool"
+  },
+  {
+    "query": "Switch off the fan in the living room.",
+    "label": "tool"
+  },
+  {
+    "query": "Dim the lights.",
+    "label": "tool"
+  },
+  {
+    "query": "Turn on the bedroom lights.",
+    "label": "tool"
+  },
+  {
+    "query": "Send a WhatsApp message to Mom.",
+    "label": "tool"
+  },
+  {
+    "query": "Notify John about the meeting.",
+    "label": "tool"
+  },
+  {
+    "query": "Is the fan running?",
+    "label": "tool"
+  },
+  {
+    "query": "What’s the humidity?",
+    "label": "tool"
+  },
+  {
+    "query": "Set the temperature to 20°C.",
+    "label": "tool"
+  },
+  {
+    "query": "Could you please turn off the lights?",
+    "label": "tool"
+  },
+  {
+    "query": "Start the fan at medium speed.",
+    "label": "tool"
+  },
+
+
+  {
+    "query": "Who created you?",
+    "label": "message"
+  },
+  {
+    "query": "Are you an AI?",
+    "label": "message"
+  },
+  {
+    "query": "What’s your purpose?",
+    "label": "message"
+  },
+  {
+    "query": "How does this work?",
+    "label": "message"
+  },
+  {
+    "query": "What’s the temperature in kitchen?",
+    "label": "tool"
+  },
+
+  {
+    "query": "What’s up?",
+    "label": "message"
+  },
+  {
+    "query": "How’s your day going?",
+    "label": "message"
+  },
+  {
+    "query": "Good morning!",
+    "label": "message"
+  },
+  {
+    "query": "Can you help me?",
+    "label": "message"
+  },
+  {
+    "query": "What do you think about the weather?",
+    "label": "message"
+  },
+  {
+    "query": "Tell me about yourself.",
+    "label": "message"
+  },
+  {
+    "query": "Do you have a name?",
+    "label": "message"
+  },
+  {
+    "query": "What languages do you speak?",
+    "label": "message"
+  },
+  {
+    "query": "Are you sentient?",
+    "label": "message"
+  }
+
+  ]

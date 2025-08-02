@@ -1,0 +1,8 @@
+streamlit
+torch
+openapi-whisper
+sounddevice
+vosk
+
+pyttsx3
+ # intel_extension_for_pytorch # requires only for intel gpu ( follow instructions here https://pytorch-extension.intel.com/installation?platform=gpu&version=v2.5.10%2Bxpu&os=windows&package=pip)
